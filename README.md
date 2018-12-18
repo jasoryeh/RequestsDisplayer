@@ -1,4 +1,4 @@
-# RequestsDispalayer
+# RequestsDisplayer [WIP]
 Well in reality, I created this because Fiddler didn't work out for me.
 
 ### Avicus Network API
