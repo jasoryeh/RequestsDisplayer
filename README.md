@@ -1,4 +1,9 @@
-# RequestsDisplayer [WIP]
+# RequestsDisplayer [No longer worked on]
+
+## The original purpose was to replace Avicus's API, but I fixed a lot of problems, and this isn't really needed anymore.
+
+## This repository will remain archived.
+
 Well in reality, I created this because Fiddler didn't work out for me.
 
 ### Avicus Network API
